@@ -27,3 +27,7 @@ export function potencia(numero) {
 export function log(numero) {
   return Math.log(numero);
 }
+
+export function potenciaPorPotencia(num, num) {
+  return num ** num;
+};
