@@ -25,5 +25,5 @@ export function potencia(numero) {
 }
 
 export function log(numero) {
-  return numero;
+  return Math.log(numero);
 }
