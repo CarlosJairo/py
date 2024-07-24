@@ -19,3 +19,7 @@ export function modulo(a, b) {
 export function saludar(nombre) {
   return `Hola ${nombre}, un gusto saludarte.`;
 }
+
+export function potencia(numero) {
+  return numero ** 2;
+}
