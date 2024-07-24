@@ -23,3 +23,7 @@ export function saludar(nombre) {
 export function potencia(numero) {
   return numero ** 2;
 }
+
+export function log(numero) {
+  return numero;
+}
