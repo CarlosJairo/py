@@ -11,3 +11,11 @@ export function multiplicar(a, b) {
 export function dividir(a, b) {
   return a / b;
 }
+
+export function modulo(a, b) {
+  return a % b;
+}
+
+export function saludar(nombre) {
+  return `Hola ${nombre}, un gusto saludarte.`;
+}
